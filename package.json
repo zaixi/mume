@@ -23,7 +23,7 @@
   "repository": "https://github.com/shd101wyy/mume",
   "dependencies": {
     "babyparse": "^0.4.6",
-    "cheerio": "0.15.0",
+    "cheerio": "0.22.0",
     "gray-matter": "^3.0.7",
     "less": "^2.7.2",
     "mkdirp": "^0.5.1",

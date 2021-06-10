@@ -1,4 +1,6 @@
+.DS_Store
+.idea
+coverage
 node_modules
-test.js
-package-lock.json
 out
+test.js
